@@ -14,7 +14,7 @@ function getQuestions(topic, count) {
     `What could have prevented the ${topic} tragedy?`
   ];
 
-  return baseQuestions.slice(0, count);
+  return baseQuestions.slic(0, count);
 }
 
 module.exports = { getQuestions };
