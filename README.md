@@ -17,4 +17,4 @@ function getQuestions(topic, count) {
   return baseQuestions.slic(0, count);
 }
 
-module.exports = { getQuestion };
+module.exports = { getQuestions };
