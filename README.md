@@ -9,7 +9,7 @@ function getQuestions(topic, count) {
     `How did people react to the ${topic} disaster?`,
     `What lessons were learned from the ${topic}?`,
     `How did the ${topic} affect future designs or decisions?`,
-    `Why is the ${topic} still remembered today?`,
+    `Why is the ${topic} still remembered toda?`,
     `What mistakes were made regarding the ${topic}?`,
     `What could have prevented the ${topic} tragedy?`
   ];
