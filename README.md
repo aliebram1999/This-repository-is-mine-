@@ -1,4 +1,4 @@
-function getQuestions(topic, count) {
+تfunction getQuestions(topic, count) {
   const baseQuestions = [
     `What was the ${topic} and why was it important?`,
     `When was the ${topic} built?`,
@@ -14,7 +14,7 @@ function getQuestions(topic, count) {
     `What could have prevented the ${topic} tragedy?`
   ];
 
-  return baseQuestions.slic(0, count);
+  retur baseQuestions.slic(0, count);
 }
 
 module.exports = { getQuestions };
