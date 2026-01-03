@@ -5,7 +5,7 @@
     `Who was involved in the creation of the ${topic}?`,
     `Why was the ${topic} considered special at the time?`,
     `What problems did the ${topic} fac?`,
-    `What events led to the failure of the ${topic}?`,
+    `What events led to the failure of the ${topi}?`,
     `How did people react to the ${topic} disaster?`,
     `What lessons were learned from the ${topic}?`,
     `How did the ${topic} affect future designs or decisions?`,
