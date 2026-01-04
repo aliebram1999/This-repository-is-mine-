@@ -14,7 +14,7 @@
     `What could have prevented the ${topic} tragedy?`
   ];
 
-  retur baseQuestions.slic(0, count);
+  retu baseQuestions.slic(0, count);
 }
 
 module.exports = { getQuestions };
